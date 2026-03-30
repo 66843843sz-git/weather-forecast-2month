@@ -1,2 +1,12 @@
-# weather-forecast-2month
-A 60-day weather prediction tool for Shanghai using AI and machine learning
+# 天气预报工具 - 未来2个月预测
+
+这是一个专注于**未来2个月天气预测**的MVP工具，目前聚焦于**上海**地区。
+
+## 功能特性
+
+✨ **60天天气预测** - 基于历史气候数据和机器学习模型  
+📊 **实时数据更新** - 集成OpenWeatherMap API获取最新数据  
+📈 **趋势分析** - 显示温度、降雨、风速的长期趋势  
+🎨 **可视化界面** - 直观的Web界面展示预测结果  
+
+## 项目结构
